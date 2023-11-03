@@ -8,6 +8,17 @@
     git clone https://github.com/Ahmed-Sharkawy/Creative-Minds-Task.git
 ```
 
+-   Please do not move to the next step before this step
+
+```php
+    cp .env.example .env
+```
+
+-   very important
+    <bold>
+    If you copied the .env file from any other project, please delete it and execute the previous command until you activate the SMS sending feature.
+    </bold>
+
 ## The second step
 
 ```php
